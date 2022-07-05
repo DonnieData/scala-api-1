@@ -1,0 +1,4 @@
+[debug] [rest_request_1-build] Classpath dependencies List()
+[debug] [rest_request_1-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'rest_request_1-build' to 'C:\Users\Donne\OneDrive\Data Engineering\Scala Projects\rest_request_1\project\.bloop\rest_request_1-build.json'
+[success] Generated .bloop\rest_request_1-build.json
