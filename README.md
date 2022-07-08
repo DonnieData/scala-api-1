@@ -1,2 +1,4 @@
 # scala-api-1
-experimenting with rest api requests in scala 
+Testing  REST API with requests in scala 
+https://github.com/com-lihaoyi/requests-scala#067
+
